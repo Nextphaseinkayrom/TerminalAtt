@@ -1,2 +1,0 @@
-# Terminal
- Assuntos do terminal
